@@ -5,6 +5,8 @@ import requests
 
 application = Flask(__name__)
 
+# THis is a comment
+
 # # Take note of the two endpoints below. They may look the same but one processes GET requests and one processes POST requests
 
 # If a GET request is made
